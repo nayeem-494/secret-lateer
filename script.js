@@ -12,7 +12,7 @@ function typeWriter() {
 }
 
 function showSecret() {
-  document.getElementById("secretText").innerText = ` 🐥  🎀  𝐼𝓃 𝐸𝓃𝑔𝓁𝒾𝓈𝒽 𝒲𝑒 𝒮𝒶𝓎 𝐼 𝒸𝒽❀𝓈𝑒 𝒴💗𝓊 𝐼𝓃 𝒫❤𝑒𝓉𝓇𝓎 𝒲𝑒 𝒮𝒶𝓎 𝒢𝒾𝓋𝑒 𝑀𝑒 𝒜 𝒯𝒽💮𝓊𝓈𝒶𝓃𝒹 ☯𝒻 𝒞𝒽🏵𝒾𝒸𝑒𝓈 𝒜𝓃𝒹 𝑀𝓎 𝐻𝑒𝒶𝓇𝓉 𝒲𝒾𝓁𝓁 𝒮𝓉𝒾𝓁𝓁 𝒦𝓃💗𝓌 𝒴🌞𝓊𝓇 𝒩𝒶𝓂𝑒  🎀  🐥`;
+  document.getElementById("secretText").innerText = ` ɪɴ ᴇɴɢʟɪꜱʜ ᴡᴇ ꜱᴀʏ ɪ ᴄʜᴏꜱᴇ ʏᴏᴜ ɪɴ ᴘᴏᴇᴛʀʏ ᴡᴇ ꜱᴀʏ ɢɪᴠᴇ ᴍᴇ ᴀ ᴛʜᴏᴜꜱᴀɴᴅ ᴏꜰ ᴄʜᴏɪᴄᴇꜱ ᴀɴᴅ ᴍʏ ʜᴇᴀʀᴛ ᴡɪʟʟ ꜱᴛɪʟʟ ᴋɴᴏᴡ ʏᴏᴜʀ ɴᴀᴍᴇ`;
 }
 
 window.onload = typeWriter;
