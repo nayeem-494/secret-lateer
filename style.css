@@ -1,0 +1,32 @@
+body {
+  background: #0f172a;
+  color: #f8fafc;
+  font-family: 'Courier New', monospace;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+.card {
+  background: #1e293b;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+  max-width: 450px;
+  text-align: center;
+  border: 1px solid #334155;
+}
+h1 { color: #38bdf8; font-size: 22px; }
+p { line-height: 1.6; font-size: 16px; }
+button {
+  background: #38bdf8;
+  border: none;
+  color: #0f172a;
+  padding: 10px 20px;
+  font-weight: bold;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 15px;
+}
+.secret { color: #f43f5e; font-weight: bold; margin-top: 15px; }
